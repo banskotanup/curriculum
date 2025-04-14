@@ -53,3 +53,8 @@ Track every application you send out in your spreadsheet by the date you sent it
 ### Following up
 
 This actually applies to the whole process, not just applications.  Follow up your interviews (with a thank you to your interviewer on day 1 too).  Follow up your tech screens.  The goal here isn't to be naggy and annoying/desperate, and it's certainly not to be a robot sending auto-generated emails all the time. Just be human and honest in your language.
+
+
+### PRC COMMIT
+
+This is actually where I'm going to practice with github.
